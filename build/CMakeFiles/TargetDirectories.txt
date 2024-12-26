@@ -1,0 +1,3 @@
+D:/programming2/CUUUURS/build/CMakeFiles/CustomFontExample.dir
+D:/programming2/CUUUURS/build/CMakeFiles/edit_cache.dir
+D:/programming2/CUUUURS/build/CMakeFiles/rebuild_cache.dir

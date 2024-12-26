@@ -1,0 +1,5 @@
+# ninja log v5
+4	286	7562157226633291	CMakeFiles/FreeTypeExample.dir/main.cpp.obj	c4093c2bc28b9c2a
+7	1885	7564659177512947	CMakeFiles/CustomFontExample.dir/main.cpp.obj	1dc9532d8433757f
+286	405	7562157227750358	FreeTypeExample.exe	24374f993dacdcd
+1885	2706	7564659185654582	CustomFontExample.exe	fc7fed2d4241adbd

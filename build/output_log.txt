@@ -1,0 +1,39 @@
+Initializing FreeType library...
+FreeType initialized successfully!
+Loading font: C:/Windows/Fonts/Arial.ttf...
+Font loaded successfully!
+Set font size to 48 pixels.
+Character: H
+Width: 28, Height: 35
+Character: e
+Width: 24, Height: 26
+Character: l
+Width: 5, Height: 35
+Character: l
+Width: 5, Height: 35
+Character: o
+Width: 24, Height: 26
+Character: ,
+Width: 7, Height: 12
+Character:  
+Width: 0, Height: 0
+Character: F
+Width: 25, Height: 35
+Character: r
+Width: 14, Height: 26
+Character: e
+Width: 24, Height: 26
+Character: e
+Width: 24, Height: 26
+Character: T
+Width: 28, Height: 35
+Character: y
+Width: 24, Height: 36
+Character: p
+Width: 22, Height: 36
+Character: e
+Width: 24, Height: 26
+Character: !
+Width: 6, Height: 35
+Cleaning up FreeType resources...
+Program finished successfully!
